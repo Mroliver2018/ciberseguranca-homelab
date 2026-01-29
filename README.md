@@ -24,3 +24,9 @@ Blue Team e SOC, utilizando VMware.
 - Criação de playbooks de resposta a incidentes
 
 Este laboratório é utilizado para fins educacionais.
+
+Iniciando o projeto
+
+SIEM WAZUH/
+
+Instalação da VM Ubuntu Server 24.04, dentro desse SO foi configurado acesso via SSH e instalação pelo terminal o SIEM WAZUH, configurado para treinamento de monitorização de ataques e rede.
